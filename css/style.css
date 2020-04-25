@@ -1047,21 +1047,21 @@ main#main {
 }
 
 body.fullscreendark #main>section#home {
-  background-image: url('http://via.placeholder.com/1920x1080');
+  background-image: url('/img/projects/background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 }
 
 body.fullscreenlight #main>section#home {
-  background-image: url('http://via.placeholder.com/1920x1080');
+  background-image: url('/img/projects/background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 }
 
 body.fullscreenbgimage #main>section#home {
-  background-image: url('http://via.placeholder.com/1920x1080');
+  background-image: url('/img/projects/background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -1079,7 +1079,7 @@ body.fullscreenbgimage #main>section#home:after {
 }
 
 body.bgimage #main>section#home {
-  background-image: url('http://via.placeholder.com/1920x1080');
+  background-image: url('/img/projects/background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
